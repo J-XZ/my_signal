@@ -1,4 +1,4 @@
 CompileFlags:       
-  CompilationDatabase: build/
+  CompilationDatabase: ./cmake/build
 Hover:
   ShowAKA: Yes
